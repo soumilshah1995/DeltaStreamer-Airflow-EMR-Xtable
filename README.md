@@ -1,6 +1,7 @@
 # DeltaStreamer-Airflow-EMR-Xtable
 DeltaStreamer-Airflow-EMR-Xtable
-![Screenshot 2024-03-23 at 11 14 50 AM](https://github.com/soumilshah1995/DeltaStreamer-Airflow-EMR-Xtable/assets/39345855/8c6021db-4d22-448a-ba5c-7962c1f66547)
+![Screenshot 2024-03-23 at 11 36 54 AM](https://github.com/soumilshah1995/DeltaStreamer-Airflow-EMR-Xtable/assets/39345855/a49b77f8-2f65-4ec7-a7fb-5c9470cfb2d0)
+
 
 
 # step 1: Download test data and jar files and upload then into folder /jar and test/ into S3
